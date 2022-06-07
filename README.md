@@ -1,4 +1,4 @@
-# Google Names Batch Search
+# [Google Names Batch Search](https://github.com/shirshod/google_name_batchsearcher/blob/main/google_batchsearcher.ipynb)
 
 By: Shirsho Dasgupta (2021) 
 
